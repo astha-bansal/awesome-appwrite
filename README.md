@@ -206,6 +206,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 - [Everything you need to know to get Appwrite Functions works on PHP runtime](https://imknight.com/everything-you-need-to-know-to-get-appwrite-functions-works-on-php-runtime)
 - [My First Appwrite Function](https://imknight.com/my-first-appwrite-function)
 - [Full Stack with React and Appwrite](https://egghead.io/courses/full-stack-with-react-and-appwrite-e1e46f61)
+- [Getting Started with Appwrite on Your App](https://dev.to/shorla/getting-started-with-appwrite-on-your-app-a-simple-step-by-step-guide-1cfd)
 
 ### Setup, Customization and Deployment
 
@@ -234,7 +235,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 - [How to import Ghost Blog Users to Appwrite](https://dev.to/joysankar2001/importing-ghost-blog-users-to-appwrite-1hag)
 - [Appwrite + JQuery](https://dev.to/leonyangela/build-your-app-with-appwrite-jquery-55ij)
 - [How to migrate Wordpress users to Appwrite](https://dev.to/joysankar2001/migrate-wordpress-users-to-appwrite-63j)
-
+  
 ### Mobile Development
 
 - [Appwrite + Appcelerator Titanium: A step by step guide](https://github.com/m1ga/from_zero_to_app/blob/master/appwrite_app.md)
